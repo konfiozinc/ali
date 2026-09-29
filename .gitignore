@@ -1,2 +1,14 @@
 # Secretos locales de Cloud Functions (NO subir a git)
 functions/.env
+
+# Secretos y configuraciones locales
+config.js
+.env.local
+.env.*.local
+secrets.json
+*.local.js
+
+# Sistema
+.DS_Store
+Thumbs.db
+node_modules/
