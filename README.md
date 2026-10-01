@@ -78,7 +78,7 @@ git add .
 git commit -m "Initial: Ali Binary Options Pro"
 
 # Subir a GitHub
-git remote add origin https://github.com/TU_USUARIO/ali-binary-options.git
+git remote add origin https://github.com/konfiozinc/ali.git
 git push -u origin main
 
 # En GitHub: Settings → Pages → Source: main branch

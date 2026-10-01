@@ -1,7 +1,7 @@
 # INFORME — ALÍ BINARY OPTIONS PRO (app web)
 
 **Ruta:** `C:\Users\usuario29\Documents\BOT\Alí Binary Opcion`
-**Repo:** github.com/konfiozinc/ali-binary-opcion · **Rama:** main
+**Repo:** github.com/konfiozinc/ali · **Rama:** main
 **Fecha:** sesión actual
 
 ---
